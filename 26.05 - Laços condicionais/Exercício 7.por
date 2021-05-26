@@ -11,6 +11,9 @@ programa
 		escreva("Entre com valor da altura: ")
 		leia(altura)
 
+		/*
+		Outra forma de fazer seria: se (base > 0 e altura >0) {}
+		*/
 		se (base > 0) {
 
 			se (altura > 0) {
@@ -40,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 44; 
+ * @POSICAO-CURSOR = 319; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
